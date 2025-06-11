@@ -2,8 +2,6 @@
 
 ### Hi stalker, my name is Biyi
 
-I'm a third year student in IT.
-
 I'm a self-taught passionate developper.
 
 About me 
